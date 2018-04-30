@@ -1,0 +1,49 @@
+{
+    "books": [
+        {
+            "author": "Glen Cook",
+            "publicationDate": "1984-05-15",
+            "title": "The Black Company"
+        },
+        {
+            "author": "Mark Lawrence",
+            "publicationDate": "2011-08-02",
+            "title": "Prince Of Thorns"
+        },
+        {
+            "author": "C.S. Lewis",
+            "publicationDate": "1950-10-16",
+            "title": "The Lion, the Witch and the Wardrobe"
+        },
+        {
+            "author": "Lloyd Alexander",
+            "publicationDate": "164-03-12",
+            "title": "The Book Of Three"
+        },
+        {
+            "author": "Stephen R. Donaldson",
+            "publicationDate": "1977-01-01",
+            "title": "Lord Foul's Bane"
+        },
+        {
+            "author": "R.A. Salvatore",
+            "publicationDate": "1990-12-22",
+            "title": "Homeland"
+        },
+        {
+            "author": "Stephen King",
+            "publicationDate": "1982-06-10",
+            "title": "The Dark Tower: The Gunslinger"
+        },
+        {
+            "author": "Terry Pratchett",
+            "publicationDate": "1983-11-24",
+            "title": "The Colour Of Magic"
+        },
+        {
+            "author": "Anne McCaffrey",
+            "publicationDate": "1968-07-19",
+            "title": "Dragonflight"
+        }
+    ]
+}
